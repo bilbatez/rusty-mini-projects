@@ -1,2 +1,2 @@
-# rusty-mini-projects
-Rust-based tiny projects
+# Rusty Mini Projects
+Mini Rust project collections
